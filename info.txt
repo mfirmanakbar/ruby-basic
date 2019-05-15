@@ -1,0 +1,2 @@
+- Alt + R untuk memunculkan auto runner / cmd di bawah atom
+-
