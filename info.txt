@@ -1,2 +1,8 @@
-- Alt + R untuk memunculkan auto runner / cmd di bawah atom
--
+Using Atom Idea
+- (Alt + R) for showing auto runner in bottom
+- for platformio-ide-terminal Find icon + in bottom-left of Atom the click it
+- run in terminal "ruby 6.input.ui.rb" then ENTER
+
+using plugin:
+- auto runner
+- platformio-ide-terminal
