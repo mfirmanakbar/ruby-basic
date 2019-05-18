@@ -20,3 +20,9 @@ puts fruits.reverse()
 print "\nSort\n"
 fruits2 = Array["Banana", "Orange", "Manggo", "Apple"]
 puts fruits2.sort()
+
+print "\nPush\n"
+fruits2 = Array["Banana", "Orange", "Manggo", "Apple"]
+puts fruits2.push("Cherry")
+puts fruits2
+# puts fruits2.pop()
