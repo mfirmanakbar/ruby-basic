@@ -25,4 +25,7 @@ print "\nPush\n"
 fruits2 = Array["Banana", "Orange", "Manggo", "Apple"]
 puts fruits2.push("Cherry")
 puts fruits2
-# puts fruits2.pop()
+
+print "\nPop\n"
+puts fruits2.pop()
+puts fruits2

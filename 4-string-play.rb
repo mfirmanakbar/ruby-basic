@@ -1,8 +1,9 @@
 name = " firman "
-puts name.upcase()
+puts name.upcase() # FIRMAN
+puts name.downcase() # firman
 puts name.strip() #remove white space like trim
-puts name.length()
-puts name.include? "man" #like contains
+puts name.length() # 8
+puts name.include? "man" #true
 
 puts "\n------------------------------------------------\n\n"
 

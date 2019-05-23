@@ -7,7 +7,7 @@ def whatIsDay(day)
     else
       day_name = "Invalid"
   end
-  return day_name #optional
+  # return day_name #optional
 end
 
 
