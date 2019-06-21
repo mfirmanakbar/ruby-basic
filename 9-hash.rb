@@ -18,3 +18,4 @@ puts myhash[:c]
 puts myhash
 myhash.delete(:d)
 puts myhash
+
