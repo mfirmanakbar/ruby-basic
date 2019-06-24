@@ -61,3 +61,13 @@ arrayHeader.push(arrayChild)
 #puts "arrayChild: " + arrayChild.to_s
 puts arrayHeader.to_s
 
+puts
+puts
+
+material = Array.new(2)
+material[0] = "TSP"
+material[1] = "NPK"
+
+puts material[0]
+puts material[1]
+puts "NPK".include?("NPK")
